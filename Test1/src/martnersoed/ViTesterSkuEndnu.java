@@ -1,5 +1,7 @@
 package martnersoed;
 
+// SKOU ARBEJDER PÅ DENNE.
+
 public class ViTesterSkuEndnu {
 	public static void main(String[] args) {
 		System.out.println("Test");
