@@ -9,6 +9,7 @@ public class ViTesterSkuEndnu {
 		System.out.println("ny test 2");
 		System.out.println("tester 4");
 		System.out.println("JEG VISER FABER");
+		System.out.println("FABER 2");
 	}
 
 }
